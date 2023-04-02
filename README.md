@@ -6,6 +6,7 @@ Tutorial de notação markdown para desenvolvedores contendo dicas e exemplos, p
 <ol>
   <li><a href="#basico">MarkDown Básico</a></li>
   <li><a href="#diretorios">Gerando estrutura de diretórios de seus projetos para markdown</a></li>
+  <li><a href="#links">Links Úteis</a></li>
 </ol>
 
 <a id="basico"> <h2> 1 - MarkDown Básico </h2></a>
@@ -75,5 +76,5 @@ $ tree -H . -o seudiretorio.html  # Exporta sua arvore de diretórios para uma a
 
 ```
 
-
-
+<a id="links"> <h2>🔗 Links Úteis</h2></a>
+* [Emojis para MarkDown](https://emojipedia.org/)
