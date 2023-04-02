@@ -78,3 +78,4 @@ $ tree -H . -o seudiretorio.html  # Exporta sua arvore de diretórios para uma a
 
 <a id="links"> <h2>🔗 Links Úteis</h2></a>
 * [Emojis para MarkDown](https://emojipedia.org/)
+* [Linguist - Arquivo de linguagens e cores dos realces de código do markdown para github](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
