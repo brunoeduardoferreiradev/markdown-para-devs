@@ -11,6 +11,7 @@ Tutorial de notação markdown para desenvolvedores contendo dicas e exemplos, p
 
 <a id="basico"> <h2> 1 - MarkDown Básico </h2></a>
 
+Para aprender markdown do básico o ideal é consultar o [MarkDown Guide](https://www.markdownguide.org)
 
 <a id="diretorios"> <h2> 2 - Gerando estrutura de diretórios de seus projetos para markdown ( Windows e Linux ) </h2></a>
 
