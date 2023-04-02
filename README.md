@@ -43,3 +43,25 @@ Ficará assim :
       └── test_helper.exs
 ```
 
+Dicas do Comando **tree** no Linux
+```shell
+
+# Caso não tenha no linux o comando tree vc pode instala-lo 
+$ sudo pacman -S tree        # Arch Linux
+$ yum install -y tree        # Centos e Fedora
+$ sudo apt-get install tree  # Ubuntu  
+
+# Exemplos de Uso do comando tree no linux 
+$ tree        # Mostra os diretórios e arquivos.
+$ tree -d     # Mostra somente os diretórios.
+$ tree -L X   # Mostra até X diretórios de profundidade.
+$ tree -f     # Mostra os arquivos com sua respectiva rota.
+$ tree -a     # Mostra todos os arquivos incluindo os ocultos.
+$ tree /      # Mostra a arvore de todo o nosso sistema.
+$ tree -ugh   # Mostra os arquivos com seu respectivo proprietário (-u), o grupo (-g) e o tamanho de cada arquivo (-h).
+$ tree -H . -o seudiretorio.html  # Exporta sua arvore de diretórios para uma arquivo HTML.
+
+```
+
+
+
